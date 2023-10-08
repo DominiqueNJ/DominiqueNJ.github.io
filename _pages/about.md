@@ -12,4 +12,3 @@ Jun Ni is currently a 4th year undergraduate in [School of Information Managemen
 
 You can find my CV here: [Jun Ni's Curriculum Vitae](../assets/NJ_resume.pdf).
 
-[Email](dominique_ni@outlook.com) / [Github](https://github.com/DominiqueNJ)
