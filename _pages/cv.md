@@ -51,6 +51,13 @@ Research experiences
   * Nanjing University School of Information Management Forum Award
   * Supervisor: Professor Yang LI
 
+Project Experiences
+======
+* Winter 2021: Course project of GIS Technology and Application
+  * School of Geography and Ocean Science, Nanjing University
+  * Based on the results of literature review, the project proposed an evaluation method for urban human settlement livability, and analyzed the spatial distribution of urban settlement livability in the city Guangzhou based on open source datasets of natural environment, population and GDP provided by Resource and Environment Science and Data Center, road datasets from Open Street Map, and POI datasets from National POI database.
+  * Supervisor: Professor Feixue LI and Professor Yongxue LIU
+
 Skills
 ======
 * Fluent in Mandarin, English and Cantonese
