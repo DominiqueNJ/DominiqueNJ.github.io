@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in in Information System Management (Data Science Track), School of Information Management, Nanjing University, 2024 (Expected)
+* B.S. in Information System Management (Data Science Track), School of Information Management, Nanjing University, 2024 (Expected)
 
 Internship experiences
 ======
